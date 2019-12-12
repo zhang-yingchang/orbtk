@@ -13,7 +13,7 @@ The main goals of OrbTk are speed, ease of use, and being cross platform.
 <img alt="Calculator" width="350" src="https://gitlab.redox-os.org/redox-os/assets/raw/master/screenshots/Calculator.png">
 
 ## Features:
-
+*
 * Modern lightweight API
 * Cross platform
 * Modular crates
